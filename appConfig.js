@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Coloring Me",
-  tagline: "Coloring Me Free Coloring Page",
-  description: "Coloring Me Free Coloring Pag.",
-  keywords: "coloring,coloringkids,agc,cdom blog",
-  author: "Coloringme.biz.id",
-  favicon: "https://pugjs.org/images/favicon.ico",
+  title: "New School Commencent",
+  tagline: "Let's Start Our School",
+  description: "Make Your Day Bright with Education, Books and School.",
+  keywords: "books, education, school, books education, books school",
+  author: "newschoolcommencement.live",
+  favicon: "https://d24wuq6o951i2g.cloudfront.net/img/events/id/457/457354332/assets/dd4.TNS_Logo3_Large_RGB.png",
   imageCount: 20,
   removeBadWords: "porn,nude,sex",
 };
