@@ -1,6 +1,6 @@
 module.exports = {
   title: "New School Commencent",
-  tagline: "Let's Start Our School",
+  tagline: "Lets Start Our School",
   description: "Make Your Day Bright with Education, Books and School.",
   keywords: "books, education, school, books education, books school",
   author: "newschoolcommencement.live",
